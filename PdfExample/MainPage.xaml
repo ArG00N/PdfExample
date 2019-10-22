@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns:ios="clr-namespace:Xamarin.Forms.PlatformConfiguration.iOSSpecific;assembly=Xamarin.Forms.Core" 
+    ios:Page.UseSafeArea="true" xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:d="http://xamarin.com/schemas/2014/forms/design" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:pdfexample="clr-namespace:PdfExample" mc:Ignorable="d" x:Class="PdfExample.MainPage">
+    <Grid  HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" BackgroundColor="Aqua">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition/>
+         </Grid.RowDefinitions>
+
+        <Button x:Name="Button" Text="LoadPdf"/>
+        <pdfexample:PdfViewer x:Name="PdfViewer" Grid.Row="1"/>
+    </Grid>
+</ContentPage>

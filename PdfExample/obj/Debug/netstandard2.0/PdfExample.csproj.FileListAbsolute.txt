@@ -1,0 +1,13 @@
+/Users/stackoverflow/Projects/PdfExample/PdfExample/bin/Debug/netstandard2.0/PdfExample.deps.json
+/Users/stackoverflow/Projects/PdfExample/PdfExample/bin/Debug/netstandard2.0/PdfExample.dll
+/Users/stackoverflow/Projects/PdfExample/PdfExample/bin/Debug/netstandard2.0/ref/PdfExample.dll
+/Users/stackoverflow/Projects/PdfExample/PdfExample/bin/Debug/netstandard2.0/PdfExample.pdb
+/Users/stackoverflow/Projects/PdfExample/PdfExample/obj/Debug/netstandard2.0/PdfExample.csprojAssemblyReference.cache
+/Users/stackoverflow/Projects/PdfExample/PdfExample/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/stackoverflow/Projects/PdfExample/PdfExample/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/stackoverflow/Projects/PdfExample/PdfExample/obj/Debug/netstandard2.0/PdfExample.AssemblyInfoInputs.cache
+/Users/stackoverflow/Projects/PdfExample/PdfExample/obj/Debug/netstandard2.0/PdfExample.AssemblyInfo.cs
+/Users/stackoverflow/Projects/PdfExample/PdfExample/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/stackoverflow/Projects/PdfExample/PdfExample/obj/Debug/netstandard2.0/PdfExample.dll
+/Users/stackoverflow/Projects/PdfExample/PdfExample/obj/Debug/netstandard2.0/ref/PdfExample.dll
+/Users/stackoverflow/Projects/PdfExample/PdfExample/obj/Debug/netstandard2.0/PdfExample.pdb
